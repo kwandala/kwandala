@@ -12,6 +12,7 @@ body {
     
 }
 .sidebar {
+    display: inline;
     background: #262626;
     width: 200px;
     padding: 20px;
