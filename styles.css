@@ -10,7 +10,8 @@ body {
     justify-content: space-between;
     height: 100vh;
     
-}.user-info {
+}
+.user-info {
     display: flex;
     align-items: center;
     margin-bottom: 20px;
