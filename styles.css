@@ -30,7 +30,7 @@ body {
 .user-details h2 {
     font-size: 18px;
     
-    color: #EA6508;
+    color: #C45406;
 }
 
 .user-details p {
@@ -62,7 +62,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #EA6508;
+    color: #C45406;
     text-decoration: none;
     padding: 10px 20px;
     display: block;
@@ -85,7 +85,7 @@ nav ul li a:hover {
 
 h1 {
     margin-bottom: 20px;
-    color: #EA6508;
+    color: #C45406;
 }
 
 #resource-count, #user-ranking, #user-league, #remaining-clicks {
@@ -94,7 +94,7 @@ h1 {
 }
 
 button {
-    background-color: #EA6508;
+    background-color: #C45406;
     color: #1c1c1c;
     border: none;
     padding: 15px 32px;
