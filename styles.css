@@ -71,7 +71,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ffcc00;
+    color: #FF7A29;
 }
 
 .container {
@@ -109,7 +109,7 @@ button {
 }
 
 button:hover {
-    background-color: #ffcc00;
+    background-color: #FF7A29;
 }
 
 #boost-button {
@@ -117,7 +117,7 @@ button:hover {
 }
 
 #boost-button:hover {
-    background-color: #ff7f00;
+    background-color: #FF7A29;
 }
 
 #tap-button {
